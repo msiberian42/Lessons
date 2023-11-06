@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fb10529ae52d4024e9b683d981a4e89d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ebrima
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3189641db7f05394b9e72d3455b4449f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
